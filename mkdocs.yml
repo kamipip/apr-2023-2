@@ -1,0 +1,18 @@
+site_name: Aplicação de Redes de Computadores
+theme:
+  name: material
+  language: pt
+
+repo_name: kamipip/apr-2023-2
+repo_url: https://github.com/kamipip/apr-2023-2
+ 
+nav:
+- index.md
+- pedra.md
+- papel.md
+- tesoura.md
+- Ensaios:
+- mermaid.md
+
+plugins:
+- mermaid2
